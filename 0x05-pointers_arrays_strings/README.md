@@ -1,0 +1,1 @@
+Arranys and strings
