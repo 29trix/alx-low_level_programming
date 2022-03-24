@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * puts2 - print alt chars of string
+ * puts2 - print alternating chars of string
  * @str: string
  * Return: void
  */
 
-void put2(char *str)
+void puts2(char *str)
 {
 	int i;
 
